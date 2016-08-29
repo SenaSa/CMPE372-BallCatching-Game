@@ -16,9 +16,7 @@ import java.awt.event.ActionEvent;
 import javax.swing.event.ChangeListener;
 import javax.swing.event.ChangeEvent;
 import java.awt.Toolkit;
-/*
- * Sena Sar�g�l
- * 112200034
+/*Sena Sarigul
  * Project
  * Ball catching game
  */
